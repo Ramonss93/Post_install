@@ -24,9 +24,9 @@
 1. Сохраняем файл как post_install.sh. Вы можете назвать его по своему вкусу.
 
 2. Делаем его исполняемым с помощью команды:
-    sudo chmod +x post_install.sh
+	sudo chmod +x post_install.sh
 
 3. Запускаем этот скрипт для выбора программного обеспечения.
-    sudo ./ubuntu_post_install.sh
+	sudo ./ubuntu_post_install.sh
 
 
