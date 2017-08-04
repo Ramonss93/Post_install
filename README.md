@@ -1,6 +1,6 @@
 # Post_install
 Скрипт для автоматической установки приложений в Linux Mint 18.2
-За основу взят скрипт https://gist.github.com/waleedahmad/a5b17e73c7daebdd048f823c68d1f57a
+За основу взят [скрипт]) https://gist.github.com/waleedahmad/a5b17e73c7daebdd048f823c68d1f57a) пользователя Waleed Ahmad (waleedahmad)
 
 Устанавливаются приложения:
 1. Sublime Text 3
