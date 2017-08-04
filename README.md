@@ -31,5 +31,9 @@
 	```
 	sudo ./ubuntu_post_install.sh
 	```
-
+4. При установке Яндекс Браузера в открывшемся документе в текстовом редакторе добавляем
+	```
+	deb [arch=amd64] http://repo.yandex.ru/yandex-browser/deb beta main
+	```
+	Сохраняем Ctr+O, выходим Ctr+X
 
